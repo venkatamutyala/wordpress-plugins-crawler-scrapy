@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = 'WordPress.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = ''
+USER_AGENT = 'Please let me know if I am being abusive: bot@venkatamutyala.com'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
