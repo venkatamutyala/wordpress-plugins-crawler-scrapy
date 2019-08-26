@@ -1,3 +1,6 @@
+# NOTE: THIS PROJECT IS NO LONGER IN ACTIVE DEVELOPMENT. Please ensure that you update all the libraries prior to execution. One or more of the libraries in this project may have security vulnerabilities. 
+
+
 # WordPress Plugin crawler using Scrapy
 
 
